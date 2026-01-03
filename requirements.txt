@@ -1,0 +1,15 @@
+# Core dependencies for Mean Shift Image Processing
+# Python 3.8+ required
+
+# Numerical computing
+numpy>=1.21.0
+
+# Image processing
+Pillow>=9.0.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Performance optimization
+numba>=0.54.0
